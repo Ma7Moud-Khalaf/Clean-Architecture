@@ -5,6 +5,7 @@ D:\MyEcommerce\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.edito
 D:\MyEcommerce\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
 D:\MyEcommerce\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
 D:\MyEcommerce\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+D:\MyEcommerce\Domain\obj\Debug\net8.0\Domain.sourcelink.json
 D:\MyEcommerce\Domain\obj\Debug\net8.0\Domain.dll
 D:\MyEcommerce\Domain\obj\Debug\net8.0\refint\Domain.dll
 D:\MyEcommerce\Domain\obj\Debug\net8.0\Domain.pdb
